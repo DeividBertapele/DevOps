@@ -74,4 +74,5 @@ Usar comando docker network :
 
 docker network ls
 
-
+--------------------------------------------------------------------
+![docker-architecture-overview](https://user-images.githubusercontent.com/43301551/206180723-8b8c35e3-3306-462a-b88a-3f171c468bbf.png)
