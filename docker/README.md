@@ -2,6 +2,12 @@
 ![image](https://user-images.githubusercontent.com/43301551/206217690-f7660d9f-6a4e-4b50-a80d-ad491b236f9f.png)
 
 
+
+Documentação do Docker: 
+- https://docs.docker.com/get-docker/ ou 
+- https://docs.docker.com/get-started/
+
+
   ## Comandos básicos:
 
 ## Criando a imagem do arquivo Dockerfile:
