@@ -1,5 +1,6 @@
 
 
+![logo-kubernetes-arquitetura-de-cluster-3](https://user-images.githubusercontent.com/43301551/206276633-ab8fa55d-795e-4dd3-a3cf-e75dff6d3e82.png)
 
 
 
@@ -81,6 +82,7 @@ Documentação do Gcloud:
 ------------------------------------------------------------------------------------------------------------
 # Arquitetura do Kubernetes e Minikube
 
+![k8s_archi1](https://user-images.githubusercontent.com/43301551/206276984-1dde006b-668d-42e9-ba98-4cdb19b8f34f.png)
 
 
 
