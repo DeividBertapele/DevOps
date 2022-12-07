@@ -1,4 +1,8 @@
-# Docker:
+# Docker:  
+![image](https://user-images.githubusercontent.com/43301551/206217690-f7660d9f-6a4e-4b50-a80d-ad491b236f9f.png)
+
+
+  ## Comandos básicos:
 
 ## Criando a imagem do arquivo Dockerfile:
 
@@ -13,7 +17,9 @@ COPY: quais arquivos precisam ser copiados;
 -----------------------------------------------------------------------------------------------
 ## Demonstraçao do terminal do Docker:
 
-docker --version   # verificar a versão
+
+Verificar a versão do docker:
+- docker --version   
 
 ---------------------------
 Para executar a imagem:
@@ -27,7 +33,7 @@ Para executar a imagem:
 - docker cp        (copiar os arquivos entre containers)
 - docker push <imagem>  (enviar a imagem para Docker Hub)
 - docker pull <imagem>  (baixando e utilizando a imagem)
-- docker colume ls  (verificar os volumes)
+- docker volume ls  (verificar os volumes)
 - docker volume create <nome>  (criar um volume)
 - docker volume rm <nome>  (remover o volume)
 
@@ -110,4 +116,32 @@ Usar comando docker network :
 - docker network inspect <nome>  ( inspecionar a rede do container)
 
 --------------------------------------------------------------------
+
+# Docker-Compose: 
+   ## Comandos básicos
+
+- docker-compose up  (rodar compose da imagem)
+- docker-compose down  (parando compose da imagem)
+- docker-compose ps (verificar a lista no compose)
+
+--------------------------------------------------------------------
+# Docker Swarm: 
+   ## Comandos básicos
+
+- docker swarm init (iniciar o Swarm)
+- docker nodes ls (listando nodes ativos)
+- docker service create --name <nome> <imagem> (subir novo serviço)
+- docker service ls (listando os serviços)
+- docker service rm <nome>  (removendo os serviços)
+- docker node rm <ID>  (removendo um Node)
+- docker service inspect <ID> (inspecionando serviços)
+- docker service ps <ID> (verificar os serviços)
+- docker stack deploy -c <arquivo.YAML> <nome>  (rodando componse com Swarm)
+
+
+--------------------------------------------------------------------
+
+
+# Arquitetura do Docker:
+
 ![docker-architecture-overview](https://user-images.githubusercontent.com/43301551/206180723-8b8c35e3-3306-462a-b88a-3f171c468bbf.png)
