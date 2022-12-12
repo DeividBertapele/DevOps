@@ -46,5 +46,13 @@ Link Azure DevOps Demo Generator:
 - https://azuredevopsdemogenerator.azurewebsites.net/
 
 
+===========================================================================================
+Fluxograma :
+
+![fluxograma terraform e azure clouds](https://user-images.githubusercontent.com/43301551/207081444-d001594c-652f-4fab-accb-86281fec6200.jpg)
+
+
+
+
 
 

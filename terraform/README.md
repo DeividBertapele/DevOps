@@ -48,4 +48,13 @@ Comando CI/CD:
 
 - terraform show (Mostrar o estado atual ou um plano salvo)
 
-- terraform -chir=DIR  (Alterne para um diretório de trabalho diferente antes de executar o dado subcomando.)
+- terraform -chir=DIR  (Alterne para um diretório de trabalho diferente antes de executar o dado subcomando.)\
+
+===========================================================================================
+# Arquitetura:
+
+<img width="1388" alt="terraform" src="https://user-images.githubusercontent.com/43301551/207081764-c43164d2-11e4-42d4-b363-42129c9dd2da.png">
+
+
+
+
