@@ -56,8 +56,5 @@ Comando CI/CD:
 <img width="1388" alt="terraform" src="https://user-images.githubusercontent.com/43301551/207081764-c43164d2-11e4-42d4-b363-42129c9dd2da.png">
 
 
-![k8s_archi1](https://user-images.githubusercontent.com/43301551/207081841-49593d77-a66c-482e-8ca7-a482e7e57849.png)
-
-
 
 
