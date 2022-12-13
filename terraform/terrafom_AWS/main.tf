@@ -8,6 +8,7 @@ terraform {
 }
 
 # Configure the AWS Provider
+
 provider "aws" {
   region  = "us-east-1" # Brasil
   profile = "user"      # usuario que você criou o Profile
@@ -21,11 +22,13 @@ provider "aws" {
 
 }
 
+
 # Create a VPC
 resource "aws_s3_bucket" "myteste-bucket" {
   bucket = "myteste-bucket...." # bucket criado no AWS S3
 
 }
+
 
 tags = {
 

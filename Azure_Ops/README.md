@@ -1,7 +1,7 @@
 # Azure Ops
 
+Link:
 
-Azure Marketplace
 - Terraform 1 (https://marketplace.visualstudio.com/items?itemName=ms-devlabs.custom-terraform-tasks)
 
 - Terraform 2 (https://marketplace.visualstudio.com/items?itemName=charleszipp.azure-pipelines-tasks-terraform)
