@@ -7,5 +7,4 @@
 - Terraform
 - Ansible
 - Jenkins
-- Microserviços
 - Azure DevOps em várias nuvens - AWS, Azure e Google Cloud.
